@@ -17,4 +17,4 @@
 - Discord Bot
 - FIRST roboits scouter
 - personal web 3 website
--look into web 3 and unity
+- look into web 3 and unity
