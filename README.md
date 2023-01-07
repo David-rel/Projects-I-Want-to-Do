@@ -1,21 +1,12 @@
 # Projects-I-Want-to-Do
 
-## Web 3 dapps remakes
+## projects Im wokring on
 
-- Opensea clone
-- Coinbase clone
-- Coin Market Cap clone
+- twitter clone
+- school robotics website
 
-## other Web 3 projects
-
-- NFT project
-- Crypto Bot of some type
-
-## my personal projects
+## what I want to work on as well
 
 - Blogging
-- Discord Bot
-- FIRST roboits scouter
-- personal web 3 website
-- look into web 3 and unity
-- build a coerver eval AI generator
+- better personal webpage
+- build a work eval AI generator
